@@ -28,3 +28,4 @@ My job is a freelancer. 🍋
 
 </details>
 
+Joined GitHub on September 7, 2020
