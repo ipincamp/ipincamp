@@ -10,7 +10,7 @@
 <details>
   <summary>Most Used Languages</summary>
 
-  <img alt="Most Used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipincamp&layout=compact&langs_count=10&theme=midnight-purple" />
+  <img alt="Most Used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipincamp&layout=compact&langs_count=10&hide=html,css&theme=midnight-purple" />
 </details>
 <br>
 
