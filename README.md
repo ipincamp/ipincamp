@@ -1,18 +1,14 @@
-<h1 align="center">ipincamp</h1>
-<h3 align="center">I'm from Indonesia, and making a project about Development. I really enjoy learning many languages since 2019.</h3>
+<h3 align="center">K N T L</h3>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1015" height="4"/>
 
-<img alt="GitHub Profile" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipincamp&theme=dracula" />
+<img alt="GitHub Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipincamp&theme=dracula" width="2000" />
 <details>
   <summary>GitHub Stats</summary>
-
-  <img alt="GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=ipincamp&show_icons=true&theme=cobalt" />
-</details>
-<details>
-  <summary>Most Used Languages</summary>
-
-  <img alt="Most Used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipincamp&layout=compact&langs_count=10&hide=html,css&theme=midnight-purple" />
+  <div>
+    <img alt="GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=ipincamp&show_icons=true&theme=cobalt" width="1000" />
+    <img alt="Most Used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipincamp&layout=compact&langs_count=10&hide=html,css&theme=midnight-purple" width="1000" />
+  </div>
 </details>
 <br>
 
