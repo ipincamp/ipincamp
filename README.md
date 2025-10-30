@@ -1,4 +1,4 @@
-# <center>K N T L</center>
+<h1 align="center">K N T L</h1>
 
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipincamp&" alt="ipincamp" width="1024" />
@@ -21,9 +21,6 @@
 <p align="center">
   <a href="https://github.com/ipincamp/edsa-api" target="_blank">
     <img src="https://svg.bookmark.style/api?url=https://github.com/ipincamp/edsa-api&mode=light&style=horizontal" alt="EDSA API" />
-  </a>
-  <a href="https://github.com/ipincamp/go-srikandi-sehat-api" target="_blank">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/ipincamp/go-srikandi-sehat-api&mode=dark&style=horizontal" alt="Go Srikandi Sehat API" />
   </a>
   <a href="https://github.com/ipincamp/srikandi-sehat-app" target="_blank">
     <img src="https://svg.bookmark.style/api?url=https://github.com/ipincamp/srikandi-sehat-app&mode=light&style=horizontal" alt="Flutter Project" />
