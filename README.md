@@ -16,17 +16,6 @@
     𝙇𝙤𝙫𝙚𝙨 𝙩𝙪𝙧𝙣𝙞𝙣𝙜 𝙞𝙙𝙚𝙖𝙨 𝙞𝙣𝙩𝙤 𝙘𝙤𝙙𝙚
 </p>
 
-## 𝘾𝙪𝙧𝙧𝙚𝙣𝙩 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
-
-<p align="center">
-  <a href="https://github.com/ipincamp/edsa-api" target="_blank">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/ipincamp/edsa-api&mode=light&style=horizontal" alt="EDSA API" />
-  </a>
-  <a href="https://github.com/ipincamp/srikandi-sehat-app" target="_blank">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/ipincamp/srikandi-sehat-app&mode=light&style=horizontal" alt="Flutter Project" />
-  </a>
-</p>
-
 ## 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
 
 ### 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚
